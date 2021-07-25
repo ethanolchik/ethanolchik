@@ -9,9 +9,6 @@ import io;
 func main() {
 
   ethan := {
-    "pronouns": [
-      "He", "Him"
-    ],
     "languages": [
       "C",
       "C++",
@@ -30,7 +27,6 @@ func main() {
   };
 
   io.println("About ${ethan.name}:\n");
-  io.println("Pronouns: ${ethan.about.pronouns}\n");
   io.println("Languages: ${ethan.about.languages}\n");
   io.println("Hobbies: ${ethan.about.hobbies}");
   io.println("Fun Fact: ${ethan.about.funFact}");
