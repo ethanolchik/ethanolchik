@@ -11,12 +11,8 @@ func main() {
   ethan := {
     "languages": [
       "C",
-      "C++",
       "C#",
-      "Java",
       "Python",
-      "JS",
-      "TS"
     ],
     "hobbies": [
       "Coding",
