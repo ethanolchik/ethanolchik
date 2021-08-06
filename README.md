@@ -16,8 +16,7 @@ func main() {
     ],
     "hobbies": [
       "Coding",
-      "Gaming",
-      "Talking"
+      "Gaming"
     ],
     "funFact": "The first computer virus was created in 1983!"
   };
