@@ -1,32 +1,13 @@
 # Hello, Im Ethan!
 
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹
-- 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
-```
-import io;
+# Goals for 2022
+- Successfully make a programming language, no matter how big or small
+- Publish a verified bot on discord
+- Learn Programming language theory
+- Complete AoC
 
-func main() {
-
-  ethan := {
-    "languages": [
-      "C",
-      "C#",
-      "Python",
-    ],
-    "hobbies": [
-      "Coding",
-      "Gaming"
-    ],
-    "funFact": "The first computer virus was created in 1983!"
-  };
-
-  io.println("About ${ethan.name}:\n");
-  io.println("Languages: ${ethan.about.languages}\n");
-  io.println("Hobbies: ${ethan.about.hobbies}");
-  io.println("Fun Fact: ${ethan.about.funFact}");
-}
-```
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=classerase&show_icons=true&hide_border=true)
