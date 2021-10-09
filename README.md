@@ -1,6 +1,7 @@
 # Hello, Im Ethan!
 
-- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹
+- I am a programmer in highschool
+- I am a Peregrine compiler developer
 
 # Goals for 2022
 - Successfully make a programming language, no matter how big or small
