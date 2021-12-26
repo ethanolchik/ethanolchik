@@ -9,6 +9,9 @@
 - Learn Programming language theory
 - Complete AoC
 
+# Recent Contributions
+<!--START_SECTION:activity-->
+
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ethanolchik&show_icons=true&hide_border=true)
