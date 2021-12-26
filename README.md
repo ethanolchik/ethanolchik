@@ -7,10 +7,7 @@
 - Successfully make a programming language, no matter how big or small
 - Publish a verified bot on discord
 - Learn Programming language theory
-- Complete AoC
-
-# Recent Contributions
-<!--START_SECTION:activity-->
+- Complete AoC 2022
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
