@@ -1,6 +1,6 @@
 # Hello, Im Ethan!
 
-- I am a programmer in highschool
+- I am a programmer in Sixth-Form
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
