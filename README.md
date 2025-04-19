@@ -1,6 +1,21 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">🧠 Computer Science Enthusiast • 👨‍💻 Developer • 🚀 Always Learning</h3>
 
+<p align="center">
+  <a href= "https://github.com/ethanolchik/">
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/228BE6/github.png" alt="github"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/ethanolchik/">
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/228BE6/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="https://discord.com/users/635971624406876170" target="_blank">
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/228BE6/discord-logo--v1.png" alt="discord-logo--v1"/>
+  </a>
+  <a href= "https://ethanolchik.github.io">
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/228BE6/internet-browser--v1.png" alt="internet-browser--v1"/>
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -9,6 +24,7 @@
 - 🧠 Interested in low-level programming, simulations, and compilers  
 - 🏛️ Starting a Computer Science degree next year — eager to go deeper into the field  
 - 🔍 Exploring systems through personal projects — from CPU simulations to hobby compilers  
+- 🤝 Always looking to collaborate
 
 ---
 
@@ -31,7 +47,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -40,3 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ethanolchik&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanolchik&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
+
+---
+<a target="_blank" href="https://icons8.com/icon/447/linkedin">Linkedin</a>, <a target="_blank" href="https://icons8.com/icon/25627/discord">Discord</a>, <a target="_blank" href="https://icons8.com/icon/55210/internet-connection">Website</a> and <a target="_blank" href="https://icons8.com/icon/12598/github">Github</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
