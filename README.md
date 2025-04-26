@@ -11,7 +11,7 @@
   <a href="https://discord.com/users/635971624406876170" target="_blank">
     <img width="50" height="50" src="https://img.icons8.com/ios/50/228BE6/discord-logo--v1.png" alt="discord-logo--v1"/>
   </a>
-  <a href= "https://ethanolchik.github.io">
+  <a href= "https://ethanolchik.netlify.app">
     <img width="50" height="50" src="https://img.icons8.com/ios/50/228BE6/internet-browser--v1.png" alt="internet-browser--v1"/>
   </a>
 </p>
