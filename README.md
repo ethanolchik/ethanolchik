@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">🧠 Computer Science Enthusiast • 👨‍💻 Developer • 🚀 Always Learning</h3>
+<h3 align="center">🧠 Computer Science Student • 👨‍💻 Developer • 🚀 Always Learning</h3>
 
 <p align="center">
   <a href= "https://github.com/ethanolchik/">
