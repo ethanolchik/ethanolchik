@@ -20,9 +20,9 @@
 
 ### 🚀 About Me
 
-- 💻 Passionate about **building, breaking, and understanding** systems  
+- 💻 Passionate about **building and understanding** systems  
 - 🧠 Interested in low-level programming, simulations, and compilers  
-- 🏛️ Starting a Computer Science degree next year — eager to go deeper into the field  
+- 🏛️ 1st Year Computer Science student  
 - 🔍 Exploring systems through personal projects — from CPU simulations to hobby compilers  
 - 🤝 Always looking to collaborate
 
