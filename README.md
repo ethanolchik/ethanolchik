@@ -15,7 +15,7 @@
 
 - 💻 Passionate about **building and understanding** systems  
 - 🧠 Interested in low-level programming, compilers and web-development  
-- 🏛️ 1st Year Computer Science student  
+- 🏛️ Studying CS at uni next year  
 - 🔍 Exploring systems through personal projects — from CPU simulations to hobby compilers
 - 📚 Currently learning web development!  
 - 🤝 Always looking to collaborate
