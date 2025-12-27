@@ -15,7 +15,7 @@
 
 - 💻 Passionate about **building and understanding** systems  
 - 🧠 Interested in low-level programming, compilers and web-development  
-- 🏛️ Studying CS at uni next year  
+- 🏛️ First year CS student at King's College London  
 - 🔍 Exploring systems through personal projects — from CPU simulations to hobby compilers
 - 📚 Currently learning web development!  
 - 🤝 Always looking to collaborate
