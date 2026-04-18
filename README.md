@@ -6,7 +6,7 @@
   |
   <a href="https://discord.com/users/635971624406876170" target="_blank">Discord</a>
   |
-  <a href= "https://ethanolchik.netlify.app">Website</a>
+  <a href= "https://ethanolchik.me">Website</a>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,rust,py,java,cs,postgres,unity,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=git,rust,py,java,cs,postgres,unity,vscode,idea,aws,cloudflare" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,supabase,tailwind" />
+    <img src="https://skillicons.dev/icons?i=go,react,nextjs" />
   </a>
 </p>
 
