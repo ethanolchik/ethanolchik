@@ -17,7 +17,7 @@
 - 🧠 Interested in low-level programming, compilers and web-development  
 - 🏛️ First year CS student at King's College London  
 - 🔍 Exploring systems through personal projects — from CPU simulations to hobby compilers
-- 📚 Currently learning web development!  
+- 📚 Currently learning Go!  
 - 🤝 Always looking to collaborate
 
 ---
