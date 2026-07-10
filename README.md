@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ethan 👋</h1>
-<h3 align="center">🧠 Computer Science Student • 👨‍💻 Developer • 🚀 Always Learning</h3>
+<h3 align="center">🧠 Computer Science Student • 👨‍💻 SWE Intern @ Cloudflare • 🚀 Always Learning</h3>
 
 <p align="center">
   <a href= "https://www.linkedin.com/in/ethanolchik/">LinkedIn</a>
@@ -13,8 +13,8 @@
 
 ### 🚀 About Me
 
-- 💻 Passionate about **building and understanding** systems  
-- 🧠 Interested in low-level programming, compilers and web-development  
+- 💻 Passionate about **building and understanding** systems
+- 🧠 Interested in systems programming & programming languages
 - 🏛️ First year CS student at King's College London  
 - 🔍 Exploring systems through personal projects — from CPU simulations to hobby compilers
 - 📚 SWE Intern @ Cloudflare
