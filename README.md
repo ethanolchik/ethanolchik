@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,rust,py,java,cs,postgres,unity,vscode,idea,aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=rust,py,cpp,java,cs,postgres,git,vscode,idea,aws,cloudflare,unity" />
   </a>
 </p>
 
