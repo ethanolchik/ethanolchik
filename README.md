@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ethan 👋</h1>
-<h3 align="center">🧠 Computer Science Student • 👨‍💻 SWE Intern @ Cloudflare • 🚀 Always Learning</h3>
+<h3 align="center">🧠 Computer Science Student • 👨‍💻 prev. SWE Intern @ Cloudflare • 🚀 Always Learning</h3>
 
 <p align="center">
   <a href= "https://www.linkedin.com/in/ethanolchik/">LinkedIn</a>
@@ -15,8 +15,7 @@
 
 - 💻 Passionate about **building and understanding** systems
 - 🧠 Interested in systems programming & programming languages
-- 🏛️ Second year CS student at King's College London  
-- 📚 Prev. SWE Intern @ Cloudflare
+- 🏛️ Second year CS student at King's College London
 - 🤝 Always looking to collaborate
 
 ---
