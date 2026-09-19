@@ -15,9 +15,8 @@
 
 - 💻 Passionate about **building and understanding** systems
 - 🧠 Interested in systems programming & programming languages
-- 🏛️ First year CS student at King's College London  
-- 🔍 Exploring systems through personal projects — from CPU simulations to hobby compilers
-- 📚 SWE Intern @ Cloudflare
+- 🏛️ Second year CS student at King's College London  
+- 📚 Prev. SWE Intern @ Cloudflare
 - 🤝 Always looking to collaborate
 
 ---
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,cpp,java,cs,postgres,git,vscode,idea,aws,cloudflare,unity" />
+    <img src="https://skillicons.dev/icons?i=rust,py,java,cs,postgres,git,vscode,idea,aws,cloudflare,unity" />
   </a>
 </p>
 
@@ -36,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus" />
+    <img src="https://skillicons.dev/icons?i=prometheus,cpp,scala" />
   </a>
 </p>
 
